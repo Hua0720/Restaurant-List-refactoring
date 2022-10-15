@@ -2,10 +2,10 @@
 使用node.js製作的餐廳清單。
 
 ### 首頁
-![home](https://github.com/Hua0720/Restaurant-List-CRUD/blob/main/public/HOME.jpg)
+![home](https://github.com/Hua0720/Restaurant-List-refactoring/blob/main/public/img/home.png)
 
 ### 詳細資料
-![edit box](https://github.com/Hua0720/Restaurant-List-CRUD/blob/main/public/EDIT.jpg)
+![edit box](https://github.com/Hua0720/Restaurant-List-refactoring/blob/main/public/img/show.jpg)
 
 
 ### 功能描述
