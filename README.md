@@ -14,7 +14,7 @@
 - 可瀏覽餐廳的詳細資訊
 - 可連結餐廳的地址到 Google 地圖
 - 可搜尋特定餐廳
-- 有下拉分類選單可以使用
+- 可使用關鍵字搜尋餐廳
 - 新增餐廳
 - 編輯餐廳
 - 刪除餐廳
@@ -25,7 +25,7 @@
 
 2. 開啟終端機輸入以下指令執行專案
    ```bash
-   git clone https://github.com/Hua0720/Restaurant-List-CRUD
+   git clone https://github.com/Hua0720/Restaurant-List-refactoring
    ```
    
 3. 移動到專案資料夾
