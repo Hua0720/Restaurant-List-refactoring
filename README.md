@@ -18,6 +18,10 @@
 - 新增餐廳
 - 編輯餐廳
 - 刪除餐廳
+- 新增使用者註冊及認證功能(flash message提示錯誤訊息)。
+- 可使用Facebook帳號登入。
+- 可登入及登出使用者。
+- 使用bcrypt儲存及驗證使用者密碼。
 
 ## 下載安裝
 
@@ -56,13 +60,18 @@
 ## 開發工具
 
 + Visual Studio Code - 開發環境
-+ Express - 4.16.4
-+ Express-handlebars - 4.0.2
-+ Bootstrap 4.3.1
-+ Font-awesome 5.8.1
-+ MongoDB
-+ mongoose 5.9.7
++ bcryptjs 2.4.3
++ body-parser 1.20.1
++ connect-flash 0.1.1
++ dotenv 8.2.0
++ express 4.16.4
++ express-handlebars 4.0.2
++ express-session 1.17.1
 + method-override 3.0.0
++ mongoose 5.9.7
++ passport 0.6.0
++ passport-facebook 3.0.0
++ passport-local 1.0.0
 
 ## 開發者
 
